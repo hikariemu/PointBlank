@@ -10,6 +10,7 @@ namespace PB
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Discord WebHook");
         }
     }
 }
